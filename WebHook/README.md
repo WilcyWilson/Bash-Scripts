@@ -1,4 +1,4 @@
-### Webhook
+#### [Webhook](https://github.com/adnanh/webhook)
 Webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands. 
 
 ### Setup
@@ -17,5 +17,10 @@ Create a bash script to run. Also change permission of the file to be executable
 
 /path/to/webhook -hooks hooks.json -verbose in case you need to debug
 
+#### Triggering a hook
+
+So, I have created an app link in [Homarr](hhttps://homarr.dev/) to trigger wake on lan using webhook.
+
+![Webhook example in homarr](Webhook.gif)
 
 
