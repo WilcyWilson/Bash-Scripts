@@ -19,7 +19,7 @@ Create a bash script to run. Also change permission of the file to be executable
 
 #### Triggering a hook
 
-So, I have created an app link in [Homarr](hhttps://homarr.dev/) to trigger wake on lan using webhook.
+So, I have created an app link in [Homarr](https://homarr.dev/) to trigger wake on lan using webhook.
 
 ![Webhook example in homarr](Webhook.gif)
 
