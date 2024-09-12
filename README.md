@@ -7,3 +7,4 @@ A SBC (Single Board Computer) like Raspberry Pi so that its feasible to run the 
 ### Simple Automation Scripts
 - #### [OpenWRT MultiWAN notify script with Gotify](https://github.com/WilcyWilson/Bash-Scripts/tree/master/MultiWANManagerOpenWRT#readme) 
 - #### [Check if there is Electricity Supply](https://github.com/WilcyWilson/Bash-Scripts/tree/master/CheckElectricity#readme)
+- #### [Webhook](https://github.com/WilcyWilson/Bash-Scripts/tree/master/Webhook#readme)
