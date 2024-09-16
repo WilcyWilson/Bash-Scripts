@@ -17,6 +17,12 @@ Create a bash script to run. Also change permission of the file to be executable
 
 /path/to/webhook -hooks hooks.json -verbose in case you need to debug
 
+- Install WakeOnLAN
+
+```console
+orangepi@orangepi3b:~$ sudo apt install wakeonlan
+```
+
 #### Triggering a hook
 
 So, I have created an app link in [Homarr](https://homarr.dev/) to trigger wake on lan using webhook.
