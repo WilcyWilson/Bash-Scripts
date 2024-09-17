@@ -14,4 +14,4 @@ mwan3 is a package available in OpenWRT.
 ![Installing SSH Client on Windows](MultiWAN.gif)
 
 ## MultiWAN Script
-So, this script notifies if one of the ISP is down in a multiple ISP connection setting. Also notifies when the an ISP is up from down status.
+So, this script notifies if one of the ISP is down in a multiple ISP connection setting. Also notifies when the ISP is up from down status.
